@@ -14,5 +14,5 @@ Character Segmentation Using projection profile method.
 4. Create vertical line after vertical projection profile method.
    ![vertical line](images/vertical_line.png)
    <br><br>
-5. Seperation of actual characters in image.
+5. Seperation of actual characters in image.<br>
    ![Actual character seperation](images/seperation2.png)
